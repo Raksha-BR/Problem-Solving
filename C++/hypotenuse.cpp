@@ -1,4 +1,4 @@
-//Calculate hypotenus of a right anled triangle
+//Calculate hypotenus of a right angled triangle
 #include<iostream>
 #include<cmath>
 using namespace std;

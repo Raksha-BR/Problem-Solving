@@ -1,4 +1,4 @@
-//GIven umber is odd or even
+//Given number is odd or even using ternary operator
 #include<iostream>
 using std::cout;
 using std::cin;

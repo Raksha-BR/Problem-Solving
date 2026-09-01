@@ -1,4 +1,4 @@
-//area of a square
+//Area of a square, side length is an input from user
 #include<iostream>
 using namespace std;
 
