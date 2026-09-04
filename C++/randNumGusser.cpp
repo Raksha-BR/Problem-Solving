@@ -25,10 +25,9 @@ int main(){
         else{
             cout<<"CORRECT GUESS! # of tries: "<<tries<<"\n";
         }
-
     }while(guess != num);
 
     cout<<"********************************************************************\n";
-
+    
     return 0;
 }
