@@ -21,3 +21,22 @@ Value returned from scanf: 3
 2 7 lrfkgjh
 Value returned from scanf: 2
 */
+
+//========================
+
+/*
+#include<stdio.h>
+int main(){
+    int v,a,b,c;
+    v=scanf("%d %d %d",&a, &b, &c);
+    printf("The scanf returned value is %d\nThe values entered by you are: %d %d %d",v,a,b,c);
+    return 0;
+}
+
+**************
+input:
+9 ghjk 7
+output:
+The scanf returned value is 1
+The values entered by you are: 9 30205 26347676
+*/
